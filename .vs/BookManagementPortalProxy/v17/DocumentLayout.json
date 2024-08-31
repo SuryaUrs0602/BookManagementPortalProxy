@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\controllers\\sapnabookhouselogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\controllers\\sapnabookhouselogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\clients\\sapnabookhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\clients\\sapnabookhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\controllers\\sapnabookhousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\controllers\\sapnabookhousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\securityheaders\\securityheadermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\securityheaders\\securityheadermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\models\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\models\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\bookhousemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\bookhousemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\migrations\\20240819174810_initialcreateofrefreshtokentable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\migrations\\20240819174810_initialcreateofrefreshtokentable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagementportalproxy\\bookmanagementportalproxy\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9FAA5-8413-45F3-AC11-2B7BCC2034F2}|BookManagementPortalProxy\\BookHouseManagement.csproj|solutionrelative:bookmanagementportalproxy\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\Program.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Program.cs",
+              "RelativeToolTip": "BookManagementPortalProxy\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T07:11:30.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SapnaBookHouseController.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Controllers\\SapnaBookHouseController.cs",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\Controllers\\SapnaBookHouseController.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Controllers\\SapnaBookHouseController.cs",
+              "RelativeToolTip": "BookManagementPortalProxy\\Controllers\\SapnaBookHouseController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAowIAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T07:45:35.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SapnaBookHouseLoginController.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Controllers\\SapnaBookHouseLoginController.cs",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\Controllers\\SapnaBookHouseLoginController.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Controllers\\SapnaBookHouseLoginController.cs",
+              "RelativeToolTip": "BookManagementPortalProxy\\Controllers\\SapnaBookHouseLoginController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwJ4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T09:43:52.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SapnaBookHouse.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Clients\\SapnaBookHouse.cs",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\Clients\\SapnaBookHouse.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Clients\\SapnaBookHouse.cs",
+              "RelativeToolTip": "BookManagementPortalProxy\\Clients\\SapnaBookHouse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAIMCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:01:25.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\appsettings.json",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\appsettings.json",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\appsettings.json",
+              "RelativeToolTip": "BookManagementPortalProxy\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-18T20:06:47.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecurityHeaderMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\SecurityHeaders\\SecurityHeaderMiddleware.cs",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\SecurityHeaders\\SecurityHeaderMiddleware.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\SecurityHeaders\\SecurityHeaderMiddleware.cs",
+              "RelativeToolTip": "BookManagementPortalProxy\\SecurityHeaders\\SecurityHeaderMiddleware.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:32:34.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Models\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\Models\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Models\\TokenResponse.cs",
+              "RelativeToolTip": "BookManagementPortalProxy\\Models\\TokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:31:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "BookManagementPortalProxy\\Models\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:33:42.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Models\\Credentials.cs",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\Models\\Credentials.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Models\\Credentials.cs",
+              "RelativeToolTip": "BookManagementPortalProxy\\Models\\Credentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T09:47:21.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Models\\BookDTO.cs",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\Models\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Models\\BookDTO.cs",
+              "RelativeToolTip": "BookManagementPortalProxy\\Models\\BookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T07:15:25.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Models\\Book.cs",
+              "RelativeToolTip": "BookManagementPortalProxy\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T07:14:51.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\appsettings.Development.json",
+              "RelativeToolTip": "BookManagementPortalProxy\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T04:48:42.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240819174810_InitialCreateOfRefreshTokenTable.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Migrations\\20240819174810_InitialCreateOfRefreshTokenTable.cs",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\Migrations\\20240819174810_InitialCreateOfRefreshTokenTable.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Migrations\\20240819174810_InitialCreateOfRefreshTokenTable.cs",
+              "RelativeToolTip": "BookManagementPortalProxy\\Migrations\\20240819174810_InitialCreateOfRefreshTokenTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:48:10.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BookManagementPortalProxy\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:36:46.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookHouseManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\BookHouseManagement.csproj",
+              "RelativeDocumentMoniker": "BookManagementPortalProxy\\BookHouseManagement.csproj",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagementPortalProxy\\BookManagementPortalProxy\\BookHouseManagement.csproj",
+              "RelativeToolTip": "BookManagementPortalProxy\\BookHouseManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T16:47:35.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
